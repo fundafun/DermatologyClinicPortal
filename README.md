@@ -22,7 +22,7 @@ This project is a **Node.js and Express** API for a dermatology clinic. It integ
 
 ### **1. Clone the Repository**  
 ```bash
-git clone https://github.com/your-repository/DermatologyClinicPortal.git
+git clone https://github.com/fundafun/DermatologyClinicPortal.git
 cd DermatologyClinicPortal
 ```
 
